@@ -1,3 +1,4 @@
+//Boton que suma en react
 function Button(props) {
     const handleClick = () => props.onClickFunction(props.increment)
       return (
